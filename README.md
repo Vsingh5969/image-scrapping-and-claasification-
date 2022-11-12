@@ -1,0 +1,4 @@
+# image-scrapping-and-claasification-WWhen we human look at a picture we can easily identify what it depicts without any problem. Humans learn this skill of identification at early stages of life. This image identification problem though is not an easy task for a machine or a computer. They don’t see the world the way humans do. Image classification thus becomes a challenge for computers or machines to learn, which is where the role of deep learning comes in.
+Image classification is the ability of a computer to analyze an image and identify the class the image falls under. The class can be anything from automobiles to animals etc.
+For instance, we input an image of a bus into the computer then the ability of computer to tell that the loaded image is a bus or the probability that the image is of a bus is what image classification is.
+Image classification is a supervised learning problem.
